@@ -2,7 +2,7 @@
 title: Pantsy Fundamental
 ---
 
-Not a robot
-Robot
-Create to serve
+Not a robot <BR>
+Robot<BR>
+Create to serve<BR>
 Live to die
